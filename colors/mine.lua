@@ -1,0 +1,1 @@
+require("mine").set_highlight()
