@@ -1,2 +1,1 @@
-require("mine").setup()
-
+require("mine").set_highlights()

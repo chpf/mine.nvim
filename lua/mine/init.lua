@@ -8,9 +8,7 @@ local colors = {
 	none = "NONE",
 }
 
-function M.setup()
-	M.set_highlights()
-end
+function M.setup() end
 
 function M.set_highlights()
 	vim.cmd("hi clear")
