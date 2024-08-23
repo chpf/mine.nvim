@@ -28,7 +28,6 @@ function M.set_highlights()
 		Constant = { bg = colors.background, fg = colors.highlight },
 		Normal = { bg = colors.background, fg = colors.text },
 		Function = { bg = colors.background, fg = colors.text },
-		Keyword = { bg = colors.background, fg = colors.text },
 		Identifier = { bg = colors.background, fg = colors.text },
 		Statement = { bg = colors.background, fg = colors.text },
 		Type = { bg = colors.background, fg = colors.text },
